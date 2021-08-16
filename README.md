@@ -128,4 +128,4 @@ Bu console command bizga **Hello World!** deya javob bersin.
 --
 
 **10 - savol:**\
-**Yii2** frameworkida `views` papkasini boshqa joydagi papkaga o'zgartirmoqchi bo'lsak bu ishni qanday amalga oshirasiz? 
+**Yii2** frameworkida `views` papkasini boshqa joydagi papkaga o'zgartirmoqchi bo'lsak bu ishni qanday amalga oshirishingizni ko'rsatib bering.
