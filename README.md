@@ -13,7 +13,7 @@ Omad tilaymiz!
 ## Savollar
 
 **1 - savol:**\
-JSON formatida faylga array yozish qanday amalga oshirasiz? Misol uchun quyidagi array ga qarang va berilgan arrayni php dan foydalangan holda `myarray.json` faylini yaratib ichiga yozib bering.
+JSON formatida faylga array yozishni qanday amalga oshirasiz? Misol uchun quyidagi array ga qarang va berilgan arrayni php dan foydalangan holda `myarray.json` faylini yaratib ichiga yozib bering.
 
 ```php
 $myarray = array(
