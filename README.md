@@ -1,12 +1,12 @@
 # Senior PHP developer uchun test
 
-Assalomu alaykum! 
+Assalomu alaykum!
 
 Agar sizga ushbu test berilgan bo'lsa demak siz uchun bizning jamoaga qo'shilish imkoniyati oz qoldi demakdir. Saralash jarayonidan muvaffaqiyatli o'tganingiz bilan tabriklaymiz!
 
 Bu test sizning PHP va dasturlashda qanday darajada ekanligingizni bilib olish uchun tayyorlangan. Pasda bir qancha savollar bor va bu savollarga javob berishda bor bilim va maxoratingizni isha soling.
 
-Savollarning javobini yozishda GitHub yoki Gitlab dan `eurosoft_php_task` deya project yarating va ichiga javoblarni yozib bizga jo'nating. `test` papkasiga qarasangiz har bir javob uchun alohida bir fayl yaratilganini ko'rasiz. Siz ham xuddi shunday ko'rinshda har bir javob uchun alohida fayl yarating va ichiga savolning yechimini yozing. 
+Savollarning javobini yozishda GitHub yoki Gitlab dan `eurosoft_php_task` deya project yarating va ichiga javoblarni yozib bizga jo'nating. `test` papkasiga qarasangiz har bir javob uchun alohida bir fayl yaratilganini ko'rasiz. Siz ham xuddi shunday ko'rinshda har bir javob uchun alohida fayl yarating va ichiga savolning yechimini yozing.
 
 Omad tilaymiz!
 
