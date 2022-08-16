@@ -129,4 +129,4 @@ Bu console command bizga **Hello World!** deya javob bersin.
 --
 
 **10 - savol:**\
-**Yii2** frameworkida `views` papkasini boshqa joydagi papkaga (misol uchun common/views) o'zgartirmoqchi bo'lsak bu ishni qanday amalga oshirishingizni ko'rsatib bering.
+**Yii2** frameworkida `frontend/views` papkasini boshqa joydagi papkaga (misol uchun common/views) o'zgartirmoqchi bo'lsak bu ishni qanday amalga oshirishingizni ko'rsatib bering.
