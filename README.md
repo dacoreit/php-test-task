@@ -110,17 +110,18 @@ Sizning **MVC** bilan ishlay olish qobiliyatingizni ko'rmoqchimiz. Project papka
 --
 
 **8 - savol:**\
-**Yii2** frameworkida yangi bir module yaratishni qanday amalga oshirishingizni ko'rsatib bering.
+**Yii2** yoki **Laravel** frameworkida yangi bir module yaratishni qanday amalga oshirishingizni ko'rsatib bering.
 
 --
 
 **9 - savol:**\
-**Yii2** frameworkida yangi bir console command yaratishni qanday amalga oshirishingizni ko'rsatib bering.
+**Yii2** yoki **Laravel** frameworkida yangi bir console command yaratishni qanday amalga oshirishingizni ko'rsatib bering.
 
 Command shunday ko'rinishda bo'lsin:
 
 ```
 php yii mycommand/welcome
+php artisan mycommand/welcome
 ```
 
 Bu console command bizga **Hello World!** deya javob bersin. 
@@ -128,4 +129,4 @@ Bu console command bizga **Hello World!** deya javob bersin.
 --
 
 **10 - savol:**\
-**Yii2** frameworkida `views` papkasini boshqa joydagi papkaga o'zgartirmoqchi bo'lsak bu ishni qanday amalga oshirishingizni ko'rsatib bering.
+**Yii2** frameworkida `views` papkasini boshqa joydagi papkaga (misol uchun common/views) o'zgartirmoqchi bo'lsak bu ishni qanday amalga oshirishingizni ko'rsatib bering.
