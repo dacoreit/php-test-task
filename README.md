@@ -1,4 +1,4 @@
-# Senior PHP developer uchun test
+# PHP developer uchun test
 
 Assalomu alaykum!
 
