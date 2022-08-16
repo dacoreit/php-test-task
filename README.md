@@ -27,7 +27,7 @@ $myarray = array(
 **2 - savol:**\
 JSON formatida data olish va ishlash:
 
-- `github.json` faylidan datalarni olib array ko'rinishida `var_dumb` qiling. 
+- Yuqoridagi `github.json` faylidan datalarni olib array ko'rinishida `var_dumb` qiling. 
 
 - `https://api.github.com/` URL idan JSON datalarni olib object ko'rinishida `var_dumb` qiling. 
 
